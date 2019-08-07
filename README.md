@@ -1,5 +1,5 @@
 # GoogleImages-Mockup
-GoogleImage Search Mockup App with React and CSS FlexBox
+GoogleImage Search Mockup App with React and CSS Grid
 
 Steps:
 
