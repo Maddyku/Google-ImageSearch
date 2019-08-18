@@ -1,6 +1,5 @@
 # GoogleImages-Mockup
-GoogleImage Search Mockup App with React and CSS Grid. Coded Along with Stephen Grider's Modern React with Redux Course on Udemy.
-
+GoogleImage Search Mockup App with React and CSS Grid. Coded along with Stephen Grider in Modern React with Redux Udemy Course (https://www.udemy.com/react-redux/).
 Steps:
 
 **To Properly Start React App in the Browser:
